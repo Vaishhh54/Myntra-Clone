@@ -25,9 +25,9 @@ This project is a functional clone of the popular online fashion retailer Myntra
 ## Installation
 
 1. Clone the repository:
-2. 
+2. https://github.com/Vaishhh54/Myntra-Clone.git
 3. Navigate to the project directory:
-4. cd myntra-functional-clone
+4. cd 11 Template Myntra Functional Clone.
 5. 3. Open the `index.html` file in a web browser to view the application.
   
 ## Usage
